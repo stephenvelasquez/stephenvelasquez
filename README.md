@@ -2,11 +2,11 @@
 
 ## Stephen Velasquez
 
-I build products that work. Fifteen years across Amazon, Walmart, Microsoft, and the US Treasury taught me that the best product managers don't just write specs — they write code, read data, and make hard calls when the room is split.
+I build products that work. Fifteen years shipping software across Amazon, Walmart, Microsoft, and the US Treasury — from supply chain systems that move physical goods at global scale to edge compute platforms spanning public and private cloud, to healthcare products serving millions of users.
 
-I've shipped supply chain systems that move physical goods at global scale and healthcare platforms that serve millions of users. Right now I run [ZipHealthy](https://www.ziphealthy.com), a behavioral health and consulting practice in Northwest Arkansas.
+At Microsoft I was dual-hatted across business and engineering for public and private market infrastructure. At Amazon and Walmart I shipped supply chain products where latency is measured in trucks, not milliseconds. At Treasury I led product and engineering as a director. Every role reinforced the same lesson: the best product managers don't just write specs — they write code, read data, and make hard calls when the room is split.
 
-I open-source the tools and frameworks I actually use.
+Now I run [ZipHealthy](https://www.ziphealthy.com), a behavioral health and consulting practice in Northwest Arkansas. I open-source the tools and frameworks I actually use.
 
 ---
 
