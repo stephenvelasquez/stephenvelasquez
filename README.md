@@ -26,7 +26,7 @@ Now I run [ZipHealthy](https://www.ziphealthy.com), a behavioral health and cons
 - **Amazon** · **Walmart** · **Microsoft** · **US Department of the Treasury**
 - MBA, University of Arkansas
 - Licensed Clinical Social Worker
-- US Air Force Veteran
+- US Air Force & US Army Veteran
 
 ### Say hello
 
