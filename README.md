@@ -12,6 +12,8 @@ Now I run [ZipHealthy](https://www.ziphealthy.com), a behavioral health and cons
 
 ---
 
+![My GitHub Game](game.gif)
+
 ### What's here
 
 #### AI & Intelligent Systems
