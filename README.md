@@ -60,7 +60,7 @@ Now I run [ZipHealthy](https://www.ziphealthy.com), a behavioral health and cons
 
 - **Amazon** · **Walmart** · **Microsoft** · **US Department of the Treasury**
 - VP-level technical product management across supply chain, fintech, defense tech, edge compute, healthcare, and AI
-- MBA, University of Arkansas
+- MBA, Cornell University
 - Licensed Clinical Social Worker
 - US Air Force & US Army Veteran
 
